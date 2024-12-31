@@ -1,1 +1,2 @@
-html is hyper text markup langauge
+html is hyper text markup language
+- it is used to create basic structure of webpage.
